@@ -1,0 +1,11 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#appHeader {
+  height: 80px;
+  width: 100%;
+  background-color: black;
+}
+/*# sourceMappingURL=style.css.map */
